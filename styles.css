@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(211, 125, 211);
+}
+
+.therock {
+    width: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.btn {
+    margin: 1.25rem;
+}
