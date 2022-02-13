@@ -1,9 +1,11 @@
 body {
     background-color: rgb(211, 125, 211);
+    font-size: 2rem;
+    font-family: 'Rowdies', cursive;
 }
 
-.therock {
-    width: 20px;
+.img {
+    width: 100px;
 }
 
 .container {
